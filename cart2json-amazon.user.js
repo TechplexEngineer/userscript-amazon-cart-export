@@ -7,6 +7,8 @@
 // @match        https://www.amazon.com/gp/cart/view.html*
 // @match        https://www.amazon.com/cart*
 // @grant        GM_setClipboard
+// @updateURL    https://github.com/TechplexEngineer/userscript-amazon-cart-export/raw/refs/heads/main/cart2json-amazon.user.js
+// @downloadURL  https://github.com/TechplexEngineer/userscript-amazon-cart-export/raw/refs/heads/main/cart2json-amazon.user.js
 // ==/UserScript==
 
 (function() {
